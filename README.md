@@ -1,3 +1,6 @@
+
+![FireShot Webpage Capture 023 - 'Oga Aiichiro' - oga aiichiro jp](https://github.com/user-attachments/assets/a0929193-71d6-4e67-a351-a5ef0b3c0639)
+
 <div align="center">
 <a href="https://misskey-hub.net">
 	<img src="./assets/title_float.svg" alt="Misskey logo" style="border-radius:50%" width="300"/>
